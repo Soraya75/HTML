@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, red, black);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+.textogeral{
+    font-size: 2em;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-size: 1.2em;
+}
